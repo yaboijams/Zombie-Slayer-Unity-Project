@@ -20,7 +20,7 @@ This 2d unity project places the player in an odd grassland that has never endin
 
 <p align="center">
 You Spawn into the map: <br/>
-<img src="https://i.imgur.com/EF052jq.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EF052jq.gif" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
