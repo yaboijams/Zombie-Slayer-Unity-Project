@@ -19,16 +19,16 @@ This 2d unity project places the player in an odd grassland that has never endin
 <h2>Zombie Slayer Walk Through:</h2>
 
 <p align="center">
-You Spawn into the map: <br/>
-<img src="https://i.imgur.com/EF052jq.gif" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+Spawn into the map: <br/>
+<img src="https://i.imgur.com/EF052jq.gif" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The user can shoot and aim the pistol:  <br/>
+<img src="https://i.imgur.com/vENLIRU.gif" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once Clip of ammo reaches 0 you can reload: <br/>
+<img src="https://i.imgur.com/5wyuR3W.gif" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
